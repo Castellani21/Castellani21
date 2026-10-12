@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-## Redes Socias 
+## Contato 
 <div data-importer="techs" align="left">
 
 <a href="https://www.linkedin.com/in/eduardocastellani/" target="_blank">
