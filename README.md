@@ -14,14 +14,14 @@
     alt="example" />
 </p> 
 
-## Sobre mim:
+## Sobre mim
 
 - 📕 Atualmente cursando Ciências da Computação.
 - 🖥️ Conhecimento nas linguagens Java, Javascript, C, Sql e Kotlin.Além de possuir conhecimento em HTML, CSS e Git.
 - ✨ Focado em aplicar meus estudos em projetos aplicados.
 - 📧 contate-me: Eduardo.castellani21@gmail.com
 
-## Tecnologias:  
+## Tecnologias  
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
@@ -46,7 +46,12 @@
 
 ## Redes Socias 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+
+<a href="https://www.linkedin.com/in/eduardocastellani/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       height="40"
+       alt="LinkedIn do Eduardo Castellani" />
+</a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
