@@ -19,7 +19,6 @@
 - 📕 Atualmente cursando Ciências da Computação.
 - 🖥️ Conhecimento nas linguagens Java, Javascript, C, Sql e Kotlin.Além de possuir conhecimento em HTML, CSS e Git.
 - ✨ Focado em aplicar meus estudos em projetos aplicados.
-- 📧 contate-me: Eduardo.castellani21@gmail.com
 
 ## Tecnologias  
 <div data-importer="techs" align="left">
