@@ -4,7 +4,8 @@
 
 ##  Prazer eu sou o Eduardo Castellani 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Castellani21/Castellani21/snake-output/snake.svg" alt="Snake animation" />
-##
+
+###
 ## Sobre mim:
 
 - 📕 Atualmente cursando Ciências da Computação.
