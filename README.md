@@ -14,44 +14,44 @@
     alt="example" />
 </p> 
 
-## Sobre mim:
+## Sobre mim
 
-- 📕 Atualmente cursando Ciências da Computação.
-- 🖥️ Conhecimento nas linguagens Java, Javascript, C, Sql e Kotlin.Além de possuir conhecimento em HTML, CSS e Git.
-- ✨ Focado em aplicar meus estudos em projetos aplicados.
-- 📧 contate-me: Eduardo.castellani21@gmail.com
+<div align="center">
 
-## Tecnologias:  
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+📕 Atualmente cursando Ciência da Computação.
+
+🖥️ Conhecimentos em Java, JavaScript, C, SQL e Kotlin, além de HTML, CSS e Git.
+
+✨ Focado em aplicar meus conhecimentos em projetos práticos e continuar evoluindo na área de tecnologia.
+
+📧 **Contato:** [Eduardo.castellani21@gmail.com](mailto:Eduardo.castellani21@gmail.com)
+
 </div>
 
-##
-## Redes Socias 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,git,docker,mysql,javascript,python,typescript,c,mongodb,linux" alt="Tecnologias" />
+
 </div>
 
+## Redes Sociais
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail" />
+</a>
+
+</div>
 
